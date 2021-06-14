@@ -1,5 +1,5 @@
 # Credit-Risk-Analysis
-In Progress
+Estimating risk measures using QAE with a quadratic speed-up over classical Monte Carlo simulation.
 
 Check out the accompanying article here: 
 
